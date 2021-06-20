@@ -12,7 +12,7 @@
     <style>
        .bg-img {
   /* The image used */
-  background-image: url("img/b2.jpg");
+  background-image: url("img/original.jpg");
 
   width: 100%;
   height: 100vh;
