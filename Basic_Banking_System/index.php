@@ -39,8 +39,13 @@
     </div>
         <div id="section">
             <table>
-                <tr></tr>
-                <tr><br>
+                <tr>
+		   <br>
+				<a href="createuser.php">
+               <button class="primary_btn" id="button "type="button" href="viewuser.php"><b>View users</b></button>
+                </a> 
+		    </tr>
+                <tr><br><br><br>
 				<a href="viewuser.php">
                <button class="primary_btn" id="button "type="button" href="viewuser.php"><b>View users</b></button>
                 </a>
