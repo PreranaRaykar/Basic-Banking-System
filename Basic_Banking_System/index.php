@@ -41,7 +41,7 @@
             <table>
                 <tr><br>
 				<a href="viewuser.php">
-               <button class="primary_btn" id="button "type="button" href="viewuser.php"><b>View users</b></button>
+               <button class="primary_btn" id="button "type="button" href="createuser.php"><b>Create users</b></button>
                 </a></tr>
                 <tr><br><br><br>
 				<a href="viewuser.php">
