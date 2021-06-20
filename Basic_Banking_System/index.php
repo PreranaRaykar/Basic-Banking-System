@@ -40,7 +40,7 @@
         <div id="section">
             <table>
                 <tr><br>
-				<a href="viewuser.php">
+				<a href="createuser.php">
                <button class="primary_btn" id="button "type="button" href="createuser.php"><b>Create users</b></button>
                 </a></tr>
                 <tr><br><br><br>
