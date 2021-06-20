@@ -42,7 +42,7 @@
                 <tr>
 		   <br>
 				<a href="createuser.php">
-               <button class="primary_btn" id="button "type="button" href="viewuser.php"><b>View users</b></button>
+               <button class="primary_btn" id="button "type="button" href="viewuser.php"><b>Create users</b></button>
                 </a> 
 		    </tr>
                 <tr><br><br><br>
